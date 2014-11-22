@@ -1,0 +1,11 @@
+C:\Users\sbrand\OneDrive\Projects\CampusDays2014Scraper\CampusDays2014Scraper\bin\Debug\CampusDays2014Scraper.exe.config
+C:\Users\sbrand\OneDrive\Projects\CampusDays2014Scraper\CampusDays2014Scraper\bin\Debug\CampusDays2014Scraper.exe
+C:\Users\sbrand\OneDrive\Projects\CampusDays2014Scraper\CampusDays2014Scraper\bin\Debug\CampusDays2014Scraper.pdb
+C:\Users\sbrand\OneDrive\Projects\CampusDays2014Scraper\CampusDays2014Scraper\bin\Debug\HtmlAgilityPack.dll
+C:\Users\sbrand\OneDrive\Projects\CampusDays2014Scraper\CampusDays2014Scraper\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\sbrand\OneDrive\Projects\CampusDays2014Scraper\CampusDays2014Scraper\bin\Debug\HtmlAgilityPack.xml
+C:\Users\sbrand\OneDrive\Projects\CampusDays2014Scraper\CampusDays2014Scraper\obj\Debug\CampusDays2014Scraper.csprojResolveAssemblyReference.cache
+C:\Users\sbrand\OneDrive\Projects\CampusDays2014Scraper\CampusDays2014Scraper\obj\Debug\CampusDays2014Scraper.exe
+C:\Users\sbrand\OneDrive\Projects\CampusDays2014Scraper\CampusDays2014Scraper\obj\Debug\CampusDays2014Scraper.pdb
+C:\Users\sbrand\OneDrive\Projects\CampusDays2014Scraper\CampusDays2014Scraper\bin\Debug\Newtonsoft.Json.dll
+C:\Users\sbrand\OneDrive\Projects\CampusDays2014Scraper\CampusDays2014Scraper\bin\Debug\Newtonsoft.Json.xml
